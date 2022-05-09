@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/meenal-jain-a78524194/a/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://twitter.com/coder351">
+<a href="https://twitter.com/itsmeenalj">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="mailto: meenalj351@gmail.com">
