@@ -17,6 +17,7 @@
 
 ### About Me 🚀
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
-👨‍💻 I have interest in Machine learning, and always looking to explore new things. </br>
+👨‍💻 I have interest in Web Dev and Machine learning, and always looking to explore new things. Currently I am learning Devops and looking forward to contribute in it too! </br>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meenaljain0303&show_icons=true&locale=en" alt="meenaljain0303" /></p>
